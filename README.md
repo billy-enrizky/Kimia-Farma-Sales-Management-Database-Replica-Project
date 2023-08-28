@@ -9,6 +9,7 @@ This project involves creating a MySQL database for managing customer informatio
 - [Creating Aggregate Table](#creating-aggregate-table)
 - [Exporting Data](#exporting-data)
 - [SQL Data Analysis](#sql-data-analysis)
+- [Tableau Data Visualization]
 
 ## Database Setup
 
@@ -70,6 +71,26 @@ Analyzing the number of distinct products purchased by each customer sheds light
 Calculating the average transaction value for each customer group provides insights into the spending patterns of different customer segments. It aids in understanding the revenue contribution of various customer groups.
 
 These SQL data analysis queries provide a comprehensive understanding of sales trends, customer behavior, and product performance within the Kimia Farma sales ecosystem. By leveraging these insights, businesses can make informed decisions to optimize their operations, enhance customer experiences, and drive growth.
+
+## Tableau Data Visualization
+
+### Kimia Farma Sales Dashboard on Tableau: Visualizing Sales Insights
+
+In this Tableau project, I designed a dynamic and insightful dashboard to visualize sales data for Kimia Farma, a pharmaceutical company. Leveraging Tableau's powerful features, I created compelling visualizations that provide a comprehensive understanding of sales performance, customer behavior, and product analysis.
+
+### Key Dashboard Visualizations:
+
+1. Total Sales by Brand (Line Chart): I developed a line chart showcasing day-to-day total sales for each brand. This visualization allows for easy tracking of brand performance over time and highlights sales trends.
+
+2. Average Price by Brand (Bar Chart): To analyze pricing strategies, I designed a bar chart illustrating the average price for each brand. This visualization aids in evaluating brand positioning and competitiveness in the market.
+
+3. Items Sold per Product (Horizontal Bar Chart): I crafted a horizontal bar chart to display the number of items sold per product. This visualization identifies best-selling products and provides insights into demand patterns.
+
+4. Total Sales per Customer (Treemaps): Using treemaps, I depicted total sales per customer group. This visualization helps identify key customer segments contributing to overall revenue and provides a hierarchical view of sales distribution.
+
+The dashboard serves as a powerful tool for decision-makers to gain actionable insights into sales performance and customer trends. By combining multiple visualizations, I aimed to provide a comprehensive overview of the company's sales landscape, enabling informed business decisions.
+
+![image](https://github.com/billy-enrizky/Kimia-Farma-Sales-Management-Database-Project/assets/132111170/c816d79b-32b5-4ac6-8991-7603df5be2be)
 
 Note: Make sure to replace placeholders such as file paths, table names, and column names with actual values according to your system configuration and project requirements.
 
