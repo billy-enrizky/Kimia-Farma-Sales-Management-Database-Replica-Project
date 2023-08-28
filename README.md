@@ -9,7 +9,7 @@ This project involves creating a MySQL database for managing customer informatio
 - [Creating Aggregate Table](#creating-aggregate-table)
 - [Exporting Data](#exporting-data)
 - [SQL Data Analysis](#sql-data-analysis)
-- [Tableau Data Visualization]
+- [Tableau Data Visualization](#Tableau-Data-Visualization)
 
 ## Database Setup
 
