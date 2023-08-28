@@ -90,6 +90,8 @@ In this Tableau project, I designed a dynamic and insightful dashboard to visual
 
 The dashboard serves as a powerful tool for decision-makers to gain actionable insights into sales performance and customer trends. By combining multiple visualizations, I aimed to provide a comprehensive overview of the company's sales landscape, enabling informed business decisions.
 
+[Visit The Dashboard] (https://public.tableau.com/views/KimiaFarmaSalesDashboard/SalesDashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ![image](https://github.com/billy-enrizky/Kimia-Farma-Sales-Management-Database-Project/assets/132111170/c816d79b-32b5-4ac6-8991-7603df5be2be)
 
 Note: Make sure to replace placeholders such as file paths, table names, and column names with actual values according to your system configuration and project requirements.
